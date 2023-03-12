@@ -1,0 +1,8 @@
+li.a{display: inline;margin-right: 40px;font-size: x-large;}
+a{color: white;text-decoration: none;}
+nav{background-color: #008000;padding: 2px 0px 2px 0px;}
+li.b{font-size: x-large;
+     background-color: #008000;
+      border: 1px none;
+     width: 130px;list-style-type: none;float: left;
+     margin-bottom: 20px;margin-left: -15px;}
